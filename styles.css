@@ -1,0 +1,36 @@
+body {
+	margin: 0;
+	text-align: center;
+	background-image: url("images/mountain.png");
+	font-family:merriweather;
+
+}
+
+.top-container {
+	background-color: #e4f9f9;
+	position: relative;
+	padding-top: 200px;
+}
+
+
+h1 {
+	margin: 0;
+	width: ;
+}
+.pro {
+	background-color:#ee00ff;
+	width: 100px;
+}
+.topcloud {
+position: absolute;
+right: 300px;
+top: 50px;
+}
+
+
+h1 {
+	color: green;
+}
+    
+.img1 {
+padding-right:700px;
